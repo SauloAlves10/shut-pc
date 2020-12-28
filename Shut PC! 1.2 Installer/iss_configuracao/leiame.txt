@@ -1,0 +1,1 @@
+Script  e  screenshots passo-a-passo para compilar o projeto utilizando o Inno Setup Script.

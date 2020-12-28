@@ -1,0 +1,15 @@
+1.0 - 21/07/16 
+-Released
+
+1.0.0.1 - 24/08/16
+-Se o software estiver em execução ao desinstalar o programa será fechado, evitando que após a desinstalação, o executável permaneça na pasta ao qual o software foi instalado.
+-Alterado o texto de licença do software no início da instalação, assim como o leiame.txt
+
+1.1 - 03/09/16
+-A ação não é executada mais de uma vez no mesmo horário do mesmo dia ao ser inicializado.
+-Alerta sonoro alterado.
+-Texto contido no Sobre... do software alterado.
+
+1.2 - 28/12/20
+-Texto contido no Sobre... do software alterado.
+-Endereço contido em Acessar o site foi alterado. 
